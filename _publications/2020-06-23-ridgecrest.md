@@ -2,7 +2,7 @@
 title: "Fault Rerupture during the July 2019 Ridgecrest Earthquake Pair from Joint Slip Inversion of InSAR, Optical Imagery, and GPS"
 collection: publications
 permalink: /publication/2020-06-23-ridgecrest.md 
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'The paper analyzes the fault slip and stress changes during the 2019 Ridgecrest earthquake sequence in California using geodetic data. It finds the M6.4 foreshock increased stresses on the fault patch that later ruptured in the M7.1 mainshock, and that patch failed repeatedly, indicating highly rate-dependent frictional strengthening between the events.'
 date: 2020-06-23
 venue: 'BSSA'
 paperurl: 'https://pubs.geoscienceworld.org/ssa/bssa/article/110/4/1627/587505/Fault-Rerupture-during-the-July-2019-Ridgecrest'
