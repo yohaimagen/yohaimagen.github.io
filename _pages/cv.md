@@ -17,6 +17,7 @@ Research Positions
         1. Earthquake numerical simulations
         2. Earthquake cycle modeling
         3. AI and Machine Learning
+        
 Education
 ======
 * Ph.D in Geophysics, Tel Aviv University, 2017  --  2024
