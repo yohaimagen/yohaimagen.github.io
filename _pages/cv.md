@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Education
+Research Positions
 ======
 * Schmidt AI in Science Fellow, University of California San Diego.
     - <ins>Research topic:</ins>: Integrating Machine Learning and Earthquake Cycle Modling
@@ -17,8 +17,8 @@ Education
         1. Earthquake numerical simulations
         2. Earthquake cycle modeling
         3. AI and Machine Learning
-
-
+Education
+======
 * Ph.D in Geophysics, Tel Aviv University, 2017  --  2024
     - <ins>Thesis title</ins>: Earthquake Slip Inversions: Addressing the Non-Uniqueness and the Ill-Conditioning of the Inverse Problem
     - <ins>Advisors</ins>: Prof. Alon Ziv, Dr. Asaf Inbal, and Dr. Gideon Bear
