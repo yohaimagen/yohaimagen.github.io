@@ -14,10 +14,10 @@ Research Positions
     - <ins>Research topic:</ins>: Integrating Machine Learning and Earthquake Cycle Modling
     - <ins>PI</ins>: Prof. Alice-Agnes Gabriel
     - <ins>Research fields</ins>:
-        1. Earthquake numerical simulations
-        2. Earthquake cycle modeling
-        3. AI and Machine Learning
-        
+        1. **Earthquake numerical simulations**
+        2. **Earthquake cycle modeling**
+        3. **AI and Machine Learning**
+
 Education
 ======
 * Ph.D in Geophysics, Tel Aviv University, 2017  --  2024
