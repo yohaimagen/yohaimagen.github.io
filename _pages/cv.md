@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Research Positions
+PostDoc
 ======
 * Schmidt AI in Science Fellow, University of California San Diego.
     - <ins>Research topic:</ins>: Integrating Machine Learning and Earthquake Cycle Modling
