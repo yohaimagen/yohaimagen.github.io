@@ -38,19 +38,15 @@ Work experience
 * 2017 -- 2018: Teaching Assistant Structural Geology, Tel Aviv University.
 * 2016 -- 2017: Research Assistant and Sinkholes Subsidence Analyst, Geological Survey of Israel. 
 
-Skills
+Awards and Fellowships
 ======
-* Languages
-    - English (Fluent)
-    - Hebrew (Native)
-* Programming Languages
-    - Python
-    - C
-    - Bash
-* SAR processing
-* Machine Learning
-    - Pytorch
-    - Scikit-learn
-    - Global optimization
-    - Scipy
+* **2025** Dr. Peretz Grader Young Researcher Award, Geological Society of Israel.
+* **2024** Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship, UC San Diego.
+* **2022** Outstanding Teaching Award, Porter School of the Environment and Earth Sciences, Tel Aviv University.
+* **2020** Outstanding Research Students Award, Porter School of the Environment and Earth Sciences, Tel Aviv University.
+* **2018** Outstanding Research Students Award, Porter School of the Environment and Earth Sciences, Tel Aviv University.
+* **2017** Outstanding Students Award in Energy, Geology and Geophysics, Israel Ministry of Energy.
+* **2016** Dean's List - Faculty of Sciences, The Hebrew University of Jerusalem.
+* **2015** Dean's List - Faculty of Sciences, The Hebrew University of Jerusalem.
+
 
